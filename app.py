@@ -38,7 +38,7 @@ Hr = {
     'Expect': "100-continue",
     'X-Unity-Version': "2018.4.11f1",
     'X-GA': "v1 1",
-    'ReleaseVersion': "OB52"}
+    'ReleaseVersion': "OB54"}
 
 # ---- Random Colores ----
 def get_random_color():
@@ -72,8 +72,8 @@ async def GeNeRaTeAccEss(uid , password):
         "Accept-Encoding": "gzip, deflate, br",
         "Connection": "close"}
     data = {
-        "uid": uid,
-        "password": password,
+        "uid": 5354537195,
+        "password": B284F06365FE01FC9ABC1CAEF85A4FFE38A2934B9AB40F0AC3806A13FA5DE72B,
         "response_type": "token",
         "client_type": "2",
         "client_secret": "2ee44819e9b4598845141067b281621874d0d5d7af9d8f7e00c1e54715b7d1e3",
